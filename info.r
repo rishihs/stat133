@@ -1,0 +1,5 @@
+name = "Harneet Rishi"
+SID = "20986472"
+email = "rishihs@berkeley.edu"
+github_name = "rishihs"
+status = "enrolled"
