@@ -1,0 +1,23 @@
+{
+    "email": "rishihs@berkeley.edu", 
+    "github_name": "rishihs", 
+    "grades": {
+        "hw1": {
+            "note": "", 
+            "hash": "012938737349bdafaa004906a4c78569fbe750fc", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw1": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
+        }
+    }, 
+    "login": "rishihs", 
+    "name": "Harneet Rishi", 
+    "status": "enrolled", 
+    "url": "git@github.com:rishihs/stat133.git"
+}
