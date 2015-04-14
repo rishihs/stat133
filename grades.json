@@ -14,10 +14,23 @@
                     "earned": 0
                 }
             }
+        }, 
+        "hw4": {
+            "note": "", 
+            "hash": "d5d9932052c26ef83d718b5fecb904cb3a89d141", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
         }
     }, 
     "login": "rishihs", 
     "name": "Harneet Rishi", 
-    "status": "enrolled", 
+    "status": "unenrolled", 
     "url": "git@github.com:rishihs/stat133.git"
 }
