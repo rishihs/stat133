@@ -44,6 +44,19 @@
                     "earned": 0
                 }
             }
+        }, 
+        "midterm4": {
+            "note": "", 
+            "hash": "5a4b983b9e777925fd09818f2f9975e4fa42d262", 
+            "earned": 1, 
+            "possible": 27, 
+            "penalty": 0, 
+            "parts": {
+                "midterm4": {
+                    "possible": 30, 
+                    "earned": 1
+                }
+            }
         }
     }, 
     "login": "rishihs", 
